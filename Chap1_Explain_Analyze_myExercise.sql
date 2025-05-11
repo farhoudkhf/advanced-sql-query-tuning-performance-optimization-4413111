@@ -6,4 +6,4 @@ WHERE category_code IN
 
 SELECT * FROM products LIMIT 15;
 
-SELECT * FROM staff;
+Explain Analyze SELECT * FROM staff;
